@@ -1,5 +1,8 @@
 # justtesting
 Just testing.
 # Heading
-##secondary Heading
+## secondary Heading
 ### tertiary heading
+* one
+* two
+* three
